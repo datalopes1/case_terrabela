@@ -16,4 +16,9 @@ O time de negócio da imobiliária Terra Bela, que tem atuação na região sude
 
 ![clientes](https://github.com/datalopes1/case_terrabela/blob/main/doc/clientes.png?raw=true)
 
+As faixas de renda foram definidas com o seguinte critério:
+- Classe A: Renda familiar acima de R$ 28.800,00.
+- Classe B: Renda familiar entre R$ 7.600,00 e R$ 28.800,00.
+- Classe C: Renda familiar entre R$ 4.000,00 e R$ 7.600,00.
+
 ![corretores](https://github.com/datalopes1/case_terrabela/blob/main/doc/corretores.png?raw=true)

@@ -6,12 +6,14 @@ O Volume Geral de Vendas (VGV) é uma das métricas mais importantes do mercado 
 Segmentar e entender o comportamento de consumo e preferências dos clientes é vital para entender quais imóveis se adequam melhor ao seu perfil e potencial financeiro. Na prestação de serviços, a principal ferramenta de trabalho é o tempo, então buscar meios de otimizar o atendimento vai naturalmente aumentar o nível de satisfação dos clientes.
 ## 🤵 Corretor de imóveis
 A  peça chave dentro de uma imobiliária, um corretor de imóveis bem preparado e uma equipe concisa e firme em busca de metas dentro da empresa. Existem várias de medir o desempenho e entender o perfil de um corretor, entender seu volume geral de vendas e o tipo de imóvel com que ele se sente mais a vontade de trabalhar é vital para apontar onde seu trabalho deve ser feito.
-# O case Terra Bela
+# 🏢 O case Terra Bela
 O time de negócio da imobiliária Terra Bela, que tem atuação na região sudeste, pediu ao time de dados um relatório que cobrisse as seguintes solicitações:
 - Acompanhamento do volume de vendas: um dashboard que acompanhe o volume de vendas e preço dos imóveis ao longo do tempo, por localização, tipo e estado de conservação;
 - Acompanhamento do perfil de clientes: um dashboard que identifique o perfil dos clientes por renda, localização e tipo dos imóveis;
 - Acompanhamento do desempenho dos corretores: identificar quais corretores tem a melhor performance para bonifica-los e dar oportunidade de treinarem os colegas.
 
-![vgv]()
-![clientes]()
-![corretores]()
+![vgv](https://github.com/datalopes1/case_terrabela/blob/main/doc/volume_de_vendas.png?raw=true)
+
+![clientes](https://github.com/datalopes1/case_terrabela/blob/main/doc/clientes.png?raw=true)
+
+![corretores](https://github.com/datalopes1/case_terrabela/blob/main/doc/corretores.png?raw=true)

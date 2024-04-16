@@ -14,13 +14,13 @@ O time de negócio da imobiliária Terra Bela, que tem atuação na região sude
 - Acompanhamento do perfil de clientes: um dashboard que identifique o perfil dos clientes por renda, localização e tipo dos imóveis;
 - Acompanhamento do desempenho dos corretores: identificar quais corretores tem a melhor performance para bonifica-los e dar oportunidade de treinarem os colegas.
 
-![vgv](https://github.com/datalopes1/case_terrabela/blob/main/doc/volume_de_vendas.png?raw=true)
+![vgv](https://github.com/datalopes1/case_terrabela/blob/main/docs/img/dashboard/dash_pg1.png?raw=true)
 
-![clientes](https://github.com/datalopes1/case_terrabela/blob/main/doc/clientes.png?raw=true)
+![clientes](https://github.com/datalopes1/case_terrabela/blob/main/docs/img/dashboard/dash_pg2.png?raw=true)
 
 As faixas de renda foram definidas com o seguinte critério:
 - Classe A: Renda familiar acima de R$ 28.800,00.
 - Classe B: Renda familiar entre R$ 7.600,00 e R$ 28.800,00.
 - Classe C: Renda familiar entre R$ 4.000,00 e R$ 7.600,00.
 
-![corretores](https://github.com/datalopes1/case_terrabela/blob/main/doc/corretores.png?raw=true)
+![corretores](https://github.com/datalopes1/case_terrabela/blob/main/docs/img/dashboard/dash_pg3.png?raw=true)

@@ -1,7 +1,9 @@
 # 🌱 Visualizando o desempenho da imobiliária Terra Bela
-Este projeto foi feito com base em um conjunto de dados artificial criado por mim com base nas minhas experiências dentro do setor imobiliário, no acompanhamento de métricas e desempenho. Em uma imobiliária existem três grandes pontos chaves que devem se manter um acompanhamento próximo e onde este projeto foi baseado. 
+Este projeto foi feito com base em um conjunto de dados artificial criado por mim com base nas minhas experiências dentro do setor imobiliário, no acompanhamento de métricas e desempenho. Em uma imobiliária existem três grandes pontos chaves que devem se manter um acompanhamento próximo e serão base deste projeto.
+### 📒 Texto completo 
+[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@datalopes1/visualizando-o-desempenho-da-imobili%C3%A1ria-terra-bela-bd730dcdd598)
 ### 🛠️ Ferramentas utilizadas
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-000?style=for-the-badge&logo=postgresql) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-000?style=for-the-badge&logo=postgresql) ![Power BI](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ## 💵 Volume Geral de Vendas
 O Volume Geral de Vendas (VGV) é uma das métricas mais importantes do mercado imobiliário, ele é obtido através da soma dos valores de todas as unidades vendidas. Ele deve ser utilizado para planejamento financeiro e de viabilidade de um investimento imobiliário e também como métrica de desempenho de uma imobiliária. 
 ## 👨‍🦱 Clientes
